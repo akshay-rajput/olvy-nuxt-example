@@ -1,11 +1,14 @@
 
 # Integrate olvy-widget with Nuxt 3
 
-This repository shows how to add olvy's vue-widget as a plugin in your Nuxt 3 app. 
-
+This example repository shows how to add olvy's vue-widget as a plugin in your Nuxt 3 app. 
 
 ![Logo](https://olvy-development.s3.amazonaws.com/public_images/olvy-vue.png)
 
+---
+#### You will have to add vue-widget as [a plugin](https://nuxt.com/docs/guide/directory-structure/plugins) in your nuxt app.
+#### As the widget is for vue, you can refer the [vue-plugin](https://nuxt.com/docs/guide/directory-structure/plugins#vue-plugins) section of the docs for more information.
+---
 ## Demo
 
 Checkout the demo: [Nuxt example on Codesandbox](https://codesandbox.io/p/github/akshay-rajput/olvy-nuxt-example/main)
